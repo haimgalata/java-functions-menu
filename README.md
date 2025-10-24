@@ -1,30 +1,35 @@
-# Java Functions Menu
+# Arrays and Matrices Algorithms (Java)
 
-This project is a **Java console application** that demonstrates the use of functions, input validation, and control structures in a menu-driven program.
+This project contains several **Java exercises** focused on array and matrix manipulation, demonstrating algorithmic problem solving with loops, conditions, and functions.
 
 ## 📋 Description
-The user is presented with a menu to choose from several operations:
-1. Calculator (+, -, *, /)
-2. Print a parallelogram of numbers
-3. Print all sorted numbers in a given range
-4. Decompose a number into even/odd place digits
-5. Exit the program
+The project includes four main exercises:
 
-Each feature is implemented as a separate static method, showcasing the use of conditionals, loops, and basic input handling.
+### 🔸 Ex_1 – Arrange Array
+Rearranges integers in an array so that all negative numbers appear before positives.  
+Zeros can appear in both sections.
+
+### 🔸 Ex_2 – Max Overlap
+Finds the largest overlapping sequence between the end of one array and the beginning of another.
+
+### 🔸 Ex_3 – Similar Columns
+Determines whether two matrix columns contain exactly the same set of unique values (order independent).  
+Also checks whether **all columns** in the matrix are different.
+
+### 🔸 Ex_4 – Max Diagonal
+Receives a square matrix and prints the diagonal (left or right) with the **maximum sum** of elements.
 
 ## 🧠 Concepts Demonstrated
-- Functions (`static` methods)
-- Loops (`for`, `do-while`)
-- Input validation (`Scanner`)
-- Conditionals (`if-else`, `switch`)
-- Output formatting (`printf`)
+- Arrays (1D & 2D)
+- Nested loops
+- Functions and modular programming
+- Conditional logic
+- Input validation
 
 ## 🚀 How to Run
-1. Open the project in IntelliJ IDEA or VS Code.
-2. Run `Assignment4.java` from the `src` folder.
-3. Follow the on-screen instructions to use the program.
-
-## 📚 Example Output
+1. Open this project in IntelliJ IDEA or VS Code.
+2. Run each file `Ex_1.java` to `Ex_4.java` individually.
+3. Follow the console instructions for input and output.
 
 ---
 
