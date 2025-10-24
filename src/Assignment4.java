@@ -1,4 +1,4 @@
-//Haim Galata:206450397 | Netanel Rada:209409036//
+//Haim Galata:206450397//
 import java.util.Scanner;
 public class Assignment4 {
 	public static Scanner sc = new Scanner(System.in);// Creating a scanner object to read user input
